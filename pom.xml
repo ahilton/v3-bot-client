@@ -2,9 +2,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.bttf.v3</groupId>
-  <artifactId>v3client-okhttp</artifactId>
+  <artifactId>v3-bot-client</artifactId>
   <packaging>jar</packaging>
-  <name>v3client-okhttp</name>
+  <name>v3-bot-client</name>
   <version>1.0.0</version>
   <scm>
     <connection>scm:git:git@github.com:swagger-api/swagger-mustache.git</connection>

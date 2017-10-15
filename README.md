@@ -27,7 +27,7 @@ Add this dependency to your project's POM:
 ```xml
 <dependency>
     <groupId>org.bttf.v3</groupId>
-    <artifactId>v3client</artifactId>
+    <artifactId>v3-bot-client</artifactId>
     <version>1.0.0</version>
     <scope>compile</scope>
 </dependency>
@@ -38,7 +38,7 @@ Add this dependency to your project's POM:
 Add this dependency to your project's build file:
 
 ```groovy
-compile "org.bttf.v3:v3client:1.0.0"
+compile "org.bttf.v3:v3-bot-client:1.0.0"
 ```
 
 ### Others
@@ -49,7 +49,7 @@ At first generate the JAR by executing:
 
 Then manually install the following JARs:
 
-* target/v3client-1.0.0.jar
+* target/v3-bot-client-1.0.0.jar
 * target/lib/*.jar
 
 ## Getting Started
